@@ -7,8 +7,8 @@ body {
 }
 
 ::selection {
-    background-color: #c2b891;
-    color: #000000;
+    background-color: #d5a6bd;
+    color: #ffffff;
 }
 
 a {
@@ -22,7 +22,7 @@ a:hover {
 }
 
 .hero__section {
-    background-image: url(../img/header_pumoi.png);
+    background-image: url(../img/header_rayen.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -69,7 +69,7 @@ i {
 }
 
 .i_herramientas {
-    color: #7da244;
+    color: #a64d79;
 }
 
 .icono {
@@ -90,21 +90,8 @@ p {
     width: 100%;
 }
 
-.button_pumoi_content {
-    display: flex; 
-    justify-content: center;
-}
-
-.button_pumoi {
-    background-color: #2ac012 !important;
-    color: #ffffff !important;
-    width: 50%;
-    display: flex; 
-    justify-content: center;
-}
-
 .informacion {
-    border-left: #7da244 solid 20px;
+    border-left: #d5a6bd solid 20px;
     padding: 5px 20px;
 }
 
@@ -131,7 +118,7 @@ h2 {
     font-weight: 400;
     padding: 1rem;
     margin: 1rem;
-    border-left: #7da244 solid 20px;
+    border-left: #a64d79 solid 20px;
 }
 
 h3 {
